@@ -1,4 +1,4 @@
-[![MasterHead](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVZuUFVwd1hMcEpkSEFrcnhJMkppWEQxSUR0Z3xBQ3Jtc0trZk4xeWxDZ3BYWXU5VTNxd3FkVzhCdWZWSW1FeXNSaHMwd21HMVkwcXlZcDBoV1RNY29HbXFwbXZiTU5qbnpxTjBvVGgwUFJ2M2pxQmo4a09LYzJXY2lwUGh5d0ZHd3hOVmxmNUl5UG9LTEVudVl5TQ&q=https%3A%2F%2F1.bp.blogspot.com%2F-7A4WynwLsMw%2FXbBpCXG8fHI%2FAAAAAAAAMt4%2FuOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ%2Fs1600%2F2000_600px.gif&v=G-EGDH50hGE)]
+![MasterHead](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVZuUFVwd1hMcEpkSEFrcnhJMkppWEQxSUR0Z3xBQ3Jtc0trZk4xeWxDZ3BYWXU5VTNxd3FkVzhCdWZWSW1FeXNSaHMwd21HMVkwcXlZcDBoV1RNY29HbXFwbXZiTU5qbnpxTjBvVGgwUFJ2M2pxQmo4a09LYzJXY2lwUGh5d0ZHd3hOVmxmNUl5UG9LTEVudVl5TQ&q=https%3A%2F%2F1.bp.blogspot.com%2F-7A4WynwLsMw%2FXbBpCXG8fHI%2FAAAAAAAAMt4%2FuOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ%2Fs1600%2F2000_600px.gif&v=G-EGDH50hGE)
 <h1 align="center">Hi 👋, I'm Fauzan Ghaza</h1>
 <h3 align="center">I'm a student at Brawijaya University</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/76bd131b4aa3447eb9f9d0887972c066.gif">
