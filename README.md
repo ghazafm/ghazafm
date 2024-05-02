@@ -30,6 +30,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghazafm&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ghazafm" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghazafm&show_icons=true&theme=dracula&locale=en" alt="ghazafm" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghazafm&theme=dracula" alt="ghazafm" /></p>
