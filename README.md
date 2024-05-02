@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/ghazafm)
 <h1 align="center">Hi 👋, I'm Fauzan Ghaza</h1>
 <h3 align="center">I'm a student at Brawijaya University</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/76bd131b4aa3447eb9f9d0887972c066.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghazafm&label=Profile%20views&color=0e75b6&style=flat" alt="ghazafm" /> </p>
 
