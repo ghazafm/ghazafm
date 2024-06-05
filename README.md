@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Computer Network and Data Science**
 
-- 📫 How to reach me **fauzan.ghaza@gmail.com**
+- 📫 How to reach me **personal@fauzanghaza.com**
 
 - ⚡ Fun fact **I'm thinking about you**
 
